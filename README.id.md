@@ -8,31 +8,31 @@ Kunjungi [aksarakan][1], Untuk informasi lebih lanjut mengenai produk dan API.
 
 Dokumentasi teknis dapat dilihat di [aksarakan documentation][2].
 
-## Requirement
+## Kebutuhan
 - PHP >= 7
 - Composer
 
-## Installation
-- Clone or download this repository
+## Installasi
+- Clone or unduh repository ini
 - Install Dependency
-- Change variable accordingly
-- Run using CLI or web server
+- sesuaikan variable
+- Jalankan menggunakan CLI atau web server
 
-### Install Dependency
+### Menginstal Dependency
 ```
 composer i
 ```
-### Change variable accordingly
-change variable $path, $token, $type inside index.php accordingly
+### Sesuaikan variable
+Sesuaikan variable $path, $token, $type dalam index.php
 
 ### Running
 #### CLI
-run following command
+jalankan command berikut
 ```
  php index.php
 ```
 #### Web server
-move or link location to your webserver directory
+pindahkan or link lokasi ke webserver directory anda
 
 
 
