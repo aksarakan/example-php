@@ -1,9 +1,9 @@
-# Contoh PHP API OCR KTP, NPWP
+# Contoh PHP (Guzzle) API OCR KTP, NPWP
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)][3]
 [![id](https://img.shields.io/badge/lang-id-red.svg)][4]
 
-Contoh penggunaan API untuk PHP pada Aksarakan OCR API,
+Contoh penggunaan API untuk PHP (Guzzle) pada Aksarakan OCR API,
 Kunjungi [aksarakan][1], Untuk informasi lebih lanjut mengenai produk dan API.
 
 Dokumentasi teknis dapat dilihat di [aksarakan documentation][2].
