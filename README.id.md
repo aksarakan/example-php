@@ -1,4 +1,4 @@
-# Contoh PHP (Guzzle) API OCR KTP, NPWP
+# PHP (Guzzle) Example API OCR KTP, NPWP
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)][3]
 [![id](https://img.shields.io/badge/lang-id-red.svg)][4]
