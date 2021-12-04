@@ -38,5 +38,5 @@ move or link location to your webserver directory
 
 [1]: https://www.google.com
 [2]: https://aksarakan.com/document
-[3]: https://github.com/aksarakan/example-node.js/blob/master/README.md
-[4]: https://github.com/aksarakan/example-node.js/blob/master/README.id.md
+[3]: https://github.com/aksarakan/example-php-guzzle/blob/master/README.md
+[4]: https://github.com/aksarakan/example-php-guzzle/blob/master/README.id.md
